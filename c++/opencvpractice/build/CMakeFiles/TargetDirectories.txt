@@ -1,0 +1,3 @@
+/home/gailyganesh/work/c++/opencvpractice/build/CMakeFiles/edit_cache.dir
+/home/gailyganesh/work/c++/opencvpractice/build/CMakeFiles/rebuild_cache.dir
+/home/gailyganesh/work/c++/opencvpractice/build/CMakeFiles/opencvpractice.dir

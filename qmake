@@ -1,0 +1,7 @@
+variable must present in all qmake file:
+
+1)SOURCES
+2)HEADERS
+3)CONFIG 
+4)DESTDIR
+5)TEMPLATE

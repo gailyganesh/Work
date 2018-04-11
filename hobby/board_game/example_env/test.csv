@@ -1,0 +1,9 @@
+actions,a,b,c,d,e,f,g,h,I
+left,None,a,b,None,d,e,None,g,h
+right,b,c,None,e,f,None,h,I,None
+top,None,None,None,a,b,c,d,e,f
+down,d,e,f,g,h,I,None,None,None
+left_down,None,None,e,None,g,None,None,None,None
+right_down,e,None,None,None,I,None,None,None,None
+left_up,None,None,None,None,a,None,None,None,e
+right_up,None,None,None,None,c,None,e,None,None
